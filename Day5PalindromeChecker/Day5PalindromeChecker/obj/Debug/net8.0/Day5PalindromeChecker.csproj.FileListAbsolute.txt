@@ -1,0 +1,15 @@
+C:\Users\David\Desktop\C#MainStudies\Day5PalindromeChecker\Day5PalindromeChecker\bin\Debug\net8.0\Day5PalindromeChecker.exe
+C:\Users\David\Desktop\C#MainStudies\Day5PalindromeChecker\Day5PalindromeChecker\bin\Debug\net8.0\Day5PalindromeChecker.deps.json
+C:\Users\David\Desktop\C#MainStudies\Day5PalindromeChecker\Day5PalindromeChecker\bin\Debug\net8.0\Day5PalindromeChecker.runtimeconfig.json
+C:\Users\David\Desktop\C#MainStudies\Day5PalindromeChecker\Day5PalindromeChecker\bin\Debug\net8.0\Day5PalindromeChecker.dll
+C:\Users\David\Desktop\C#MainStudies\Day5PalindromeChecker\Day5PalindromeChecker\bin\Debug\net8.0\Day5PalindromeChecker.pdb
+C:\Users\David\Desktop\C#MainStudies\Day5PalindromeChecker\Day5PalindromeChecker\obj\Debug\net8.0\Day5PalindromeChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Desktop\C#MainStudies\Day5PalindromeChecker\Day5PalindromeChecker\obj\Debug\net8.0\Day5PalindromeChecker.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\C#MainStudies\Day5PalindromeChecker\Day5PalindromeChecker\obj\Debug\net8.0\Day5PalindromeChecker.AssemblyInfo.cs
+C:\Users\David\Desktop\C#MainStudies\Day5PalindromeChecker\Day5PalindromeChecker\obj\Debug\net8.0\Day5PalindromeChecker.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\C#MainStudies\Day5PalindromeChecker\Day5PalindromeChecker\obj\Debug\net8.0\Day5PalindromeChecker.sourcelink.json
+C:\Users\David\Desktop\C#MainStudies\Day5PalindromeChecker\Day5PalindromeChecker\obj\Debug\net8.0\Day5PalindromeChecker.dll
+C:\Users\David\Desktop\C#MainStudies\Day5PalindromeChecker\Day5PalindromeChecker\obj\Debug\net8.0\refint\Day5PalindromeChecker.dll
+C:\Users\David\Desktop\C#MainStudies\Day5PalindromeChecker\Day5PalindromeChecker\obj\Debug\net8.0\Day5PalindromeChecker.pdb
+C:\Users\David\Desktop\C#MainStudies\Day5PalindromeChecker\Day5PalindromeChecker\obj\Debug\net8.0\Day5PalindromeChecker.genruntimeconfig.cache
+C:\Users\David\Desktop\C#MainStudies\Day5PalindromeChecker\Day5PalindromeChecker\obj\Debug\net8.0\ref\Day5PalindromeChecker.dll
